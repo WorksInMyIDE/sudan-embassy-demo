@@ -1,7 +1,7 @@
 import "./index.css";
 import { useState, useEffect } from "react";
 import { Routes, Route, useLocation } from "react-router-dom";
-import { copy } from "./translations";
+import { copy } from "./Translations";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
 import Home from "./pages/Home";
